@@ -1,7 +1,12 @@
+"use client";
+
+import React from "react";
+import HeroSection from "@/components/HeroSection";
+
 export default function Home() {
 	return (
-		<div>
-			<h1>Cinematix</h1>
-		</div>
+		<main>
+			<HeroSection />
+		</main>
 	);
 }
