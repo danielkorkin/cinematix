@@ -12,8 +12,8 @@ export default function Home() {
 		<main>
 			<HeroSection />
 			<DescriptionSection />
-			<TestimonialsSection />
 			<WorldMapSection />
+			<TestimonialsSection />
 		</main>
 	);
 }
