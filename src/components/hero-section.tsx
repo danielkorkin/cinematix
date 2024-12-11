@@ -21,6 +21,9 @@ export default function HeroSection() {
 					<div className="text-black text-3xl md:text-7xl font-bold dark:text-white text-center">
 						CINEMATIX
 					</div>
+					<div className="text-black font-extralight text-base md:text-4xl dark:text-neutral-200 py-4">
+						Lights. Project. Action!
+					</div>
 				</motion.div>
 			</AuroraBackground>
 		</main>
