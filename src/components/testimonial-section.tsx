@@ -1,6 +1,6 @@
 import { AnimatedTestimonials } from "@/components/ui/animated-testimonials";
 
-export function Testimonials() {
+export function TestimonialsSection() {
 	const testimonials = [
 		{
 			quote: "I could tell right away that this brand is different. Every little detail shows how much effort these guys put into creating something so elegant yet unique. And the quality is just superb.",
